@@ -6,10 +6,12 @@ backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifact
 cachetools==5.3.1
 certifi==2023.5.7
 charset-normalizer==3.1.0
+cloudpickle==2.2.1
 contourpy==1.0.7
 cycler==0.11.0
 debugpy @ file:///work/ci_py311/debugpy_1676824903649/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+dm-tree==0.1.8
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1667317341051/work
 flatbuffers==23.5.26
 fonttools==4.39.4
